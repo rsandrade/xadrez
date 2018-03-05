@@ -1,4 +1,4 @@
-<img src="./img/xadrez.jpg" width="20%"><br>
+<img src="xadrez.jpg" width="20%"><br>
 # Xadrez 
 **Seeking the best open source setup for an e-commerce store that accepts Litecoin (LTC) and Bitcoin (BTC)**
 
@@ -52,7 +52,7 @@ This is the plugin mentioned above. WooCommerce is widely used and offer a bunch
 
 ### [BTCpay Server](https://github.com/btcpayserver/btcpayserver)
 
-<img align="right" src="img/photo_2018-03-03_18-15-08.jpg" width="28%">
+<img align="right" src="btcpay-invoice.jpg" width="28%">
 *BTCPay Server is a free and open source server for merchants wanting to accept Bitcoin for their business. The API is compatible with Bitpay service to allow seamless migration.*
 
 BTCpay Server will will turn the merchant into a self sovereign one. The merchant (or some merchants who trust themselves) will run a payment gateway and link the store (Wordpress + WooCommerce) to it using a Woocommerce addon plugin from BTCpayServer project. 
