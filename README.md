@@ -17,7 +17,7 @@ I personally run an online bookstore which uses Xadrez to give the option for cu
     2. [WooCommerce plugin](#woocommerce-plugin)
     3. [BTCpay Server](#btcpay-server)
     4. ["Wordpress-Woocommerce-BTCpay" plugin](#wordpress-woocommerce-btcpay-plugin)
-    5. [Electrum](#electrum) (desktop wallet)
+    5. [Electrum](#electrum) (desktop and mobile wallet)
     6. [Electrum-LTC](#electrum-ltc) (desktop wallet)
     7. [Samourai Wallet](#samourai-wallet) (mobile wallet)
     8. [Loafwallet](#loafwallet) (mobile wallet)
