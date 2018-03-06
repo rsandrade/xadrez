@@ -1,5 +1,5 @@
 
-This version of Xadrez is not being updated anymore, to check the best version go to the official [BTCPay Server Documentation](https://github.com/btcpayserver/btcpayserver-doc)
+This version of Xadrez is not being updated anymore. Get the best version at the official [BTCPay Server Documentation](https://github.com/btcpayserver/btcpayserver-doc)
 
 ======================
 
