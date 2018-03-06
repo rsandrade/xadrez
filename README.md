@@ -17,10 +17,11 @@ I personally run an online bookstore which uses Xadrez to give the option for cu
     2. [WooCommerce plugin](#woocommerce-plugin)
     3. [BTCpay Server](#btcpay-server)
     4. ["Wordpress-Woocommerce-BTCpay" plugin](#wordpress-woocommerce-btcpay-plugin)
-    5. [Electrum](#electrum) (desktop and mobile wallet)
-    6. [Electrum-LTC](#electrum-ltc) (desktop wallet)
-    7. [Samourai Wallet](#samourai-wallet) (mobile wallet)
-    8. [Loafwallet](#loafwallet) (mobile wallet)
+    5. [Fiat2LTC-WooCommerce plugin](#fiat2ltc-woocommerce)
+    6. [Electrum](#electrum) (desktop and mobile wallet)
+    7. [Electrum-LTC](#electrum-ltc) (desktop wallet)
+    8. [Samourai Wallet](#samourai-wallet) (mobile wallet)
+    9. [Loafwallet](#loafwallet) (mobile wallet)
 
 ## Introduction <a name="introduction"></a>
 
@@ -70,6 +71,18 @@ You should follow [the BTCPay Server Twitter acoount](https://www.twitter.com/tc
 *Add the ability to accept Bitcoin and Litecoin in WooCommerce via BTCpay Server.*
 
 This plugin will link BTCpay Server and Wordpress+WooCommerce.
+
+### [Fiat2LTC-Woocomerce](https://github.com/Fiat2LTC/Fiat2LTC-WooCommerce)
+
+*This is a plugin for WooCommerce/Wordpress to display live Litecoin (and Bitcoin/Ethereum) prices in your shop.*
+
+This handy plugin will help your customers to know the price in fiat (USD, EUR, BRL...) and BTC or LTC (ETH too but Xadrez do not support this crypto).
+
+You can check our test e-store 9Bravos how it works. You can put a widget anywhere to let people change between Bitcoin or Litecoin or put the price switcher below every price of each product. 
+
+Fiat2LTC-WooCommerce will let you show prices in BTC/LTC format or bits/lites format.
+
+Don't forget to disable ETH at ```Fiat2LTC Price Settings``` at Wordpress Dashboard.
 
 ### [Electrum](https://www.electrum.org)
 
