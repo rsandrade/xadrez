@@ -2,6 +2,7 @@
 This version of Xadrez is not being updated anymore, to check the best version go to the official [BTCPay Server Documentation](https://github.com/btcpayserver/btcpayserver-doc)
 
 ======================
+
 <img src="xadrez.jpg" width="20%"><br>
 # Xadrez 
 **Seeking the best open source setup for an e-commerce store that accepts Litecoin (LTC) and Bitcoin (BTC)**
