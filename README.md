@@ -72,7 +72,7 @@ You should follow [the BTCPay Server Twitter acoount](https://www.twitter.com/tc
 
 This plugin will link BTCpay Server and Wordpress+WooCommerce.
 
-### [Fiat2LTC-Woocomerce](https://github.com/Fiat2LTC/Fiat2LTC-WooCommerce)
+### [Fiat2LTC-WooCommerce](https://github.com/Fiat2LTC/Fiat2LTC-WooCommerce)
 
 *This is a plugin for WooCommerce/Wordpress to display live Litecoin (and Bitcoin/Ethereum) prices in your shop.*
 
