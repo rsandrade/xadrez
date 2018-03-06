@@ -82,7 +82,7 @@ You can check our test e-store 9Bravos how it works. You can put a widget anywhe
 
 Fiat2LTC-WooCommerce will let you show prices in BTC/LTC format or bits/lites format.
 
-Don't forget to disable ETH at ```Fiat2LTC Price Settings``` at Wordpress Dashboard.
+Don't forget to disable ETH in ```Fiat2LTC Price Settings``` at Wordpress Dashboard.
 
 ### [Electrum](https://www.electrum.org)
 
